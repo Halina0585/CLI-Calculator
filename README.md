@@ -9,5 +9,9 @@ Any feedback is appriated, good or bad
 
 I'm just a guy trying to improve ;p
 
-One day, I will look back at this, whether I succeed or fail, I will still look back, 
+One day, I will look back at this, whether I succeed or fail, I will still look back,
 to see the path I have walked, with my wife ;p
+
+---
+
+Basic Arthermatic functions have been added [31 Jan 2026]

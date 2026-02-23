@@ -43,7 +43,7 @@ int mode(int menuType)
 
     switch (menuType)
     {
-    case 1:
+    case 1: // Basic Athermatic
         std::cout << "\nSelect an Operation\n";
         std::cout << "[1] Addition\n";
         std::cout << "[2] Subtraction\n";
@@ -52,7 +52,20 @@ int mode(int menuType)
         std::cout << "[5] Exponent\n";
         std::cout << "[6] Root\n";
         std::cout << "[7] Percentage\n";
+        std::cout << "----> ";
         std::cin >> mode;
+        break;
+
+    case 2: // Area
+        std::cout << "[1] Rectriangle\n";
+        std::cout << "[2] Triangle\n";
+        std::cout << "[3] Circle\n";
+        std::cout << "[4] Trapezium\n";
+        std::cout << "[5] Parallelogram\n";
+        std::cout << "[6] Kite\n";
+        std::cout << "[7] Area\n";
+        std::cout << "[8] Area\n";
+        std::cout << "[9] Area\n";
         break;
 
     default:
